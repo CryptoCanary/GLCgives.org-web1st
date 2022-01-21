@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.GLCgives.org$ [NC]
+RewriteRule ^(.*)$ https://GLCgives.org/$1 [R=301,L]
