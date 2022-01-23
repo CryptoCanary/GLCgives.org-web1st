@@ -79,8 +79,8 @@ ul, li {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ff4a17;
-  border-top-color: #ffe9e3;
+  border: 6px solid #ffbb00;
+  border-top-color: #ffd100;
   border-radius: 50%;
   width: 60px;
   height: 60px;
